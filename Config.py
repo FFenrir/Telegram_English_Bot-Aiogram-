@@ -1,7 +1,7 @@
 # Telegram API_TOKEN
 
-API_TOKEN = "5894057721:AAEfvRFwE4IXOajflBoju_LeE5JYlH4ycos"
+API_TOKEN = "Your Telegram Bot API_TOKEN"
 
-app_id = "e93b7706"
+app_id = "Your_app_id"
 
-app_key = "e3823c344288d17ccd8f0bdff65ccda4"
+app_key = "Your_Oxford_Dictionary_app_key"
